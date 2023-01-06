@@ -1,0 +1,62 @@
+* {
+    text-align: center;
+}
+
+
+#bloco {
+    border: ridge 1px black;
+    height: 300px;
+    width: 920px;
+    margin: 294px 460px;
+    padding: 10px;
+}
+
+
+.titulo {
+    display: flex;
+    align-items: center;
+
+}
+
+
+
+.matTotal{
+height: 16px;
+width: 16px;
+border:ridge 1px black;
+}
+
+
+.porTotal{
+height: 16px;
+width: 16px;
+border:ridge 1px black;
+}
+
+
+.cienTotal{
+height: 16px;
+width: 16px;
+border:ridge 1px black;
+}
+
+
+.geoTotal{
+height: 16px;
+width: 16px;
+border:ridge 1px black;
+}
+
+
+.hisTotal{
+height: 16px;
+width: 16px;
+border:ridge 1px black;
+}
+
+
+.ingTotal{
+height: 16px;
+width: 16px;
+border:ridge 1px black;
+}
